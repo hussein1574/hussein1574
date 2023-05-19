@@ -123,6 +123,12 @@
   <a href="mailto:medhathussein2@gmail.com?subject=Hi%20Hussein%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
+
+<p align = "center">
+	<img src = "https://github.com/hussein1574/hussein1574/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
+
+
 -----
 Credits: [Hussein](https://github.com/hussein1574)
 Last Edited on: 5/19/2023
