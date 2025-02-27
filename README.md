@@ -1,134 +1,71 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/hussein1574" alt="Profile count" /> </p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=60&color=E60000&center=true&multiline=true&random=false&width=435&height=100&separator=%3C&lines=const+init+%3D+()+%3D%3E+start();%3CCompiling...%F0%9F%92%BB%3CHey+there%2C+I'm+Hussein+Medhat." alt="Typing SVG" /></a></p>
 
+<p align="center">Software Engineer</p>
+<p align="center">🌍 Egypt </p>
+
+<br/>
+
+## Tech Stack
+ <div align="center">  
+<table><tr><td valign="top" width="33%">
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Source Control  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+</div>
+<br/>  
+
+## Connect with me
 <div align="center">
+<a href="https://github.com/hussein1574" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/hussein-medhat-99132875/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br/>
+<div align="center" style="display:inline-block;flex-wrap:nowrap";>
 
-
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>Open profile</summary>
-
-[comment]: <> (View Counter)
-<br>
- 
-<div>
-  <div align=center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hi+%2C+I'm+Hussein+Medhat;Computer+engineering+student" alt="Typing SVG" /></a>
-  </div>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein1574&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+alt="adam-pw"
+bg_color=#808080/>
 </div>
 
-<details>
-<summary>About me</summary>
+<br/>  
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+------
 
-<div align="left">
-
-```js
-/**
- * Represents me.
- * @constructor
- * @param {string} city - Cairo.
- * @param {string} languagues - Arabic, English.
- * @param {string} jobTitle - Student.
- * @param {string} specialization - Software Developer.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies -  reading & playing music.
- * @param {string} education - Computer Engineering, Helwan university.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 31th of December 1999.
- * @throws {Punch} To any and all bugs.
- * @returns {Object} Hussein.
- */
-```
-
-</div>
-
-</details>
-
-<details>
-<summary>Tools</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Data Science & AI</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  </kbd>
-  </p>
-</div>
-</details>
-
-<details>
-  <summary>Quote</summary>
-  <br>
-  One of my favourite quotes
-  <blockquote>
-    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
-    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
-  </blockquote>
-</details>
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
-
-<div align=center>
-  <a href="https://www.linkedin.com/in/hussein-medhat-99132875/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:medhathussein2@gmail.com?subject=Hi%20Hussein%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-</div>
-
-
-<p align = "center">
-	<img src = "https://github.com/hussein1574/hussein1574/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
-
-
------
-Credits: [Hussein](https://github.com/hussein1574)
-Last Edited on: 5/19/2023
+[Hussein-Medhat](https://github.com/hussein1574)
+Last Edited 27/2/2025
